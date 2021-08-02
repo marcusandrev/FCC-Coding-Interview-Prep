@@ -4,5 +4,6 @@
 - I decided to answer one exercise every day in this section of freeCodeCamp to practice algorithms, data structures, and JavaScript 👨‍💻.
 - Started August 1, 2021
 
-## Algorithms
-- [x] Find the Symmetric Difference
+## Basic Algorithm Scripting
+- [x] Convert Celsius to Fahrenheit 
+- [x] Reverse a String
