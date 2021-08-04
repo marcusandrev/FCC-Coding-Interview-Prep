@@ -4,8 +4,9 @@
 - I decided to answer one exercise every day in this section of freeCodeCamp to practice algorithms, data structures, and JavaScript 👨‍💻.
 - Started August 1, 2021
 
-## Basic Algorithm Scripting (4/16)
+## Basic Algorithm Scripting (5/16)
 - [x] Convert Celsius to Fahrenheit 
 - [x] Reverse a String
 - [x] Factorialize a Number 
 - [x] Find the Longest Word in a String 
+- [x] Return Largest Numbers in Arrays

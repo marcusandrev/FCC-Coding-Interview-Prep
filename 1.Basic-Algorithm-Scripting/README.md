@@ -7,3 +7,4 @@
 - [x] Reverse a String (08/02/2021)
 - [x] Factorialize a Number (08/03/2021)
 - [x] Find the Longest Word in a String (08/03/2021)
+- [x] Return Largest Numbers in Arrays (08/04/2021)
