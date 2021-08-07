@@ -10,3 +10,5 @@
 - [x] Return Largest Numbers in Arrays (08/04/2021)
 - [x] Confirm the Ending (08/06/2021)
 - [x] Repeat a String Repeat a String (08/06/2021)
+- [x] Truncate a String (08/07/2021)
+- [x] Finders Keepers (08/07/2021)
