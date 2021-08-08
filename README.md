@@ -14,3 +14,4 @@
 - [x] Repeat a String Repeat a String
 - [x] Truncate a String 
 - [x] Finders Keepers
+- [x] Boo who
