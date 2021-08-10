@@ -14,3 +14,4 @@
 - [x] Finders Keepers (08/07/2021)
 - [x] Boo who (08/08/2021)
 - [x] Title Case a Sentence (08/09/2021)
+- [x] Slice and Splice (08/10/2021)
