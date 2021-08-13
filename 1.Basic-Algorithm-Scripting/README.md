@@ -16,3 +16,4 @@
 - [x] Title Case a Sentence (08/09/2021)
 - [x] Slice and Splice (08/10/2021)
 - [x] Falsy Bouncer (08/12/2021)
+- [x] Where do I Belong (08/13/2021)
