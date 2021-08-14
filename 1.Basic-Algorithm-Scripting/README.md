@@ -17,3 +17,4 @@
 - [x] Slice and Splice (08/10/2021)
 - [x] Falsy Bouncer (08/12/2021)
 - [x] Where do I Belong (08/13/2021)
+- [x] Mutations (08/14/2021)
