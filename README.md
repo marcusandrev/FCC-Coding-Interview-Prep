@@ -4,7 +4,7 @@
 - I decided to answer one exercise every day in this section of freeCodeCamp to practice algorithms, data structures, and JavaScript 👨‍💻.
 - Started August 1, 2021
 
-## Basic Algorithm Scripting (15/16)
+## Basic Algorithm Scripting (16/16)
 - [x] Convert Celsius to Fahrenheit 
 - [x] Reverse a String
 - [x] Factorialize a Number 
@@ -20,3 +20,4 @@
 - [x] Falsy Bouncer
 - [x] Where do I Belong
 - [x] Mutations
+- [x] Chunky Monkey

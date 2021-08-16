@@ -18,3 +18,4 @@
 - [x] Falsy Bouncer (08/12/2021)
 - [x] Where do I Belong (08/13/2021)
 - [x] Mutations (08/14/2021)
+- [x] Chunky Monkey (08/16/2021)
