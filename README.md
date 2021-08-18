@@ -21,3 +21,6 @@
 - [x] Where do I Belong
 - [x] Mutations
 - [x] Chunky Monkey
+
+## Intermediate Algorithm Scripting (1/21)
+- [x] Sum All Numbers in a Range
