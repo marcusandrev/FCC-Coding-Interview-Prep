@@ -22,5 +22,6 @@
 - [x] Mutations
 - [x] Chunky Monkey
 
-## Intermediate Algorithm Scripting (1/21)
+## Intermediate Algorithm Scripting (2/21)
 - [x] Sum All Numbers in a Range
+- [x] Diff Two Arrays
