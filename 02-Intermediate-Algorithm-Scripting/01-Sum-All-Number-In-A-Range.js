@@ -12,16 +12,17 @@ For example, sumAll([4,1]) should return 10 because sum of all the numbers betwe
 */
 
 function sumAll(arr) {
-  
-    var abc = arr.sort(function(a, b){return a-b});
-    var total = 0;
-    
-    for (let i=abc[0]; i < abc[1] + 1; i++) {
-        total += i
-    }
-    return total;
+  var abc = arr.sort(function (a, b) {
+    return a - b;
+  });
+  var total = 0;
+
+  for (let i = abc[0]; i < abc[1] + 1; i++) {
+    total += i;
   }
-  
-  sumAll([1, 4]);
-  sumAll([10, 5]);
-  sumAll([4, 1]);
+  return total;
+}
+
+sumAll([1, 4]);
+sumAll([10, 5]);
+sumAll([4, 1]);
