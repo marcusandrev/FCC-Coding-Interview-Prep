@@ -25,3 +25,4 @@
 ## Intermediate Algorithm Scripting (2/21)
 - [x] Sum All Numbers in a Range
 - [x] Diff Two Arrays
+- [x] Seek and Destroy
